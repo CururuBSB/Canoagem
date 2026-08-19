@@ -25,7 +25,7 @@
         },
         {
           "ingredienteId": "bacon",
-          "quantidade": 70.0,
+          "quantidade": 100.0,
           "unidade": "g"
         },
         {
@@ -35,12 +35,12 @@
         },
         {
           "ingredienteId": "calabresa",
-          "quantidade": 250.0,
+          "quantidade": 200.0,
           "unidade": "g"
         },
         {
           "ingredienteId": "carne-seca",
-          "quantidade": 100.0,
+          "quantidade": 300.0,
           "unidade": "g"
         },
         {
